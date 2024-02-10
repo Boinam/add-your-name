@@ -1,4 +1,4 @@
 # add-your-name
 
-1. Patrick Murimi
-Kipsang Kevin
+1. Patrick Murimi<br> 
+2. Kipsang Kevin
